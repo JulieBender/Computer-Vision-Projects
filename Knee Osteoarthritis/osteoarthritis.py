@@ -8,12 +8,12 @@ model = YOLO('osteoarthritis-s.pt')  # this is a custom tranied model
 
 
 image_paths = [
-    "/Users/juliebender/code/Linkedin posts/grade_0.jpg",
-    "/Users/juliebender/code/Linkedin posts/grade_1.jpg",
-    "/Users/juliebender/code/Linkedin posts/grade_12.jpg",
-    "/Users/juliebender/code/Linkedin posts/grade_3.jpg",
-    "/Users/juliebender/code/Linkedin posts/grade_4.jpg",
-    "/Users/juliebender/code/Linkedin posts/grade_41.jpg"
+    "/Users/juliebender/code/Knee Osteoarthritis/grade_0.jpg",
+    "/Users/juliebender/code/Knee Osteoarthritis/grade_1.jpg",
+    "/Users/juliebender/code/Knee Osteoarthritis/grade_12.jpg",
+    "/Users/juliebender/code/Knee Osteoarthritis/grade_3.jpg",
+    "/Users/juliebender/code/Knee Osteoarthritis/grade_4.jpg",
+    "/Users/juliebender/code/Knee Osteoarthritis/grade_41.jpg"
     ]
 
 # title and text description
